@@ -7,9 +7,7 @@ import {
 function App() {
   return (
     <div className="App">
-    <NavBar />
     <StandardCardCollection />
-    <MarketingFooter />
     </div>
   );
 }
